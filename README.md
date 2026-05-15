@@ -37,17 +37,13 @@ CrimeCast investigates whether weather conditions — particularly temperature a
 - Engineered features: `Mean_Temperature_F`, `Month`, `Year`, `Season`, `Is_Weekend`, `Time_To_Report`
 - Merged crime and weather datasets on `Date`
 
-### 2. Database Design
-- Designed ER model linking crime and weather tables
-- Implemented in **MySQL** with relational schema
-
-### 3. Exploratory Data Analysis
+### 2. Exploratory Data Analysis
 - Crime distribution by Neighborhood, Month, Season, and Offense Category
 - Crime vs Temperature scatter plots with regression lines
 - Monthly crime trends by year (2019–2022)
 - Year-over-year crime growth analysis
 
-### 4. Predictive Modeling
+### 3. Predictive Modeling
 Trained two models to predict **daily crime count** from weather and calendar features:
 
 | Model | R² Score | RMSE |
@@ -59,7 +55,7 @@ Trained two models to predict **daily crime count** from weather and calendar fe
 
 **Top Feature (Random Forest):** `Mean_Temp` with importance score of **0.61**
 
-### 5. Statistical Hypothesis Testing (R)
+### 4. Statistical Hypothesis Testing (R)
 - Model: `crime_count ~ Mean_Temperature_F` (Simple Linear Regression + ANOVA)
 - **H₀:** Temperature has no effect on crime
 - **H₁:** Temperature significantly affects crime
