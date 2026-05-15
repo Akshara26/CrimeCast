@@ -2,7 +2,6 @@
 
 ![Python](https://img.shields.io/badge/Python-3.13-blue?logo=python) ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter) ![MySQL](https://img.shields.io/badge/MySQL-Database-blue?logo=mysql) ![R](https://img.shields.io/badge/R-Statistical%20Analysis-276DC3?logo=r) ![scikit-learn](https://img.shields.io/badge/scikit--learn-ML-F7931E?logo=scikit-learn)
 
-**Author:** Akshara  
 **Dataset Period:** 2019 – 2022  
 **Location:** Minneapolis, Minnesota  
 
