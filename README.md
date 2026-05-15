@@ -9,7 +9,7 @@
 
 ## 📌 Project Overview
 
-CrimeCast investigates whether weather conditions — particularly temperature and snowfall — can predict daily crime rates in Minneapolis. Using real-world crime and weather datasets, this project combines data engineering, exploratory data analysis, statistical hypothesis testing, and machine learning to uncover patterns that matter.
+CrimeCast investigates whether weather conditions, particularly temperature and snowfall, can predict daily crime rates in Minneapolis. Using real-world crime and weather datasets, this project combines data engineering, exploratory data analysis, statistical hypothesis testing, and machine learning to uncover patterns that matter.
 
 > **Key Finding:** Temperature is the single strongest predictor of daily crime, accounting for over 60% of feature importance in a Random Forest model, and explaining 48% of variance in daily crime counts (R² = 0.484).
 
