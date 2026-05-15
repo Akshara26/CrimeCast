@@ -12,18 +12,8 @@
 
 CrimeCast investigates whether weather conditions — particularly temperature and snowfall — can predict daily crime rates in Minneapolis. Using real-world crime and weather datasets, this project combines data engineering, exploratory data analysis, statistical hypothesis testing, and machine learning to uncover patterns that matter.
 
-> **Key Finding:** Temperature is the single strongest predictor of daily crime, accounting for over 60% of feature importance in a Random Forest model, and explaining ~48% of variance in daily crime counts (R² = 0.484).
+> **Key Finding:** Temperature is the single strongest predictor of daily crime, accounting for over 60% of feature importance in a Random Forest model, and explaining 48% of variance in daily crime counts (R² = 0.484).
 
----
-
-## 🚀 What Makes This Project Stand Out
-
-- **End-to-end pipeline** — from raw data cleaning to predictive modeling
-- **Two ML models compared** — Linear Regression vs Random Forest
-- **Feature importance analysis** — identifies temperature as the dominant driver
-- **Year-over-year trend analysis** — tracks crime growth across 4 years
-- **Statistical hypothesis testing in R** — confirms significance with p-value < 0.05
-- **Relational database design** — implemented in MySQL with ER model
 
 ---
 
@@ -107,7 +97,7 @@ Trained two models to predict **daily crime count** from weather and calendar fe
 CrimeCast/
 ├── database project .ipynb       # Main analysis notebook
 ├── DB project hypothesis test.R  # R statistical analysis
-├── final_project_dataset_csv     # Merged crime + weather dataset
+├── dataset_csv                   # Merged crime + weather dataset
 ├── hypothesis_test_data          # Data used for R analysis
 ├── requirements.txt              # Python dependencies
 └── README.md
