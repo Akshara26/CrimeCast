@@ -74,7 +74,7 @@ Trained two models to predict **daily crime count** from weather and calendar fe
 ---
 
 ## 🚀 Live Dashboard
-👉 [View Interactive Dashboard](your-streamlit-url-here)
+👉 [View Interactive Dashboard](https://akshara26-crimecast.streamlit.app)
 
 ---
 
