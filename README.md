@@ -73,6 +73,11 @@ Trained two models to predict **daily crime count** from weather and calendar fe
 
 ---
 
+## 🚀 Live Dashboard
+👉 [View Interactive Dashboard](your-streamlit-url-here)
+
+---
+
 ## 💻 Tech Stack
 
 | Tool | Purpose |
